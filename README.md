@@ -1,3 +1,4 @@
+[English version](https://github.com/unityvn/how-to-detect-region-unity/wiki/English-version)
 # 🌍 How to detect regions in Unity
 ## ❓Đặt vấn đề
 - Gần đây mình có nhận được một task đó là: `Đổi logo/background cho màn hình loading nếu user đó ở thị trường Nhật Bản 🇯🇵`.
